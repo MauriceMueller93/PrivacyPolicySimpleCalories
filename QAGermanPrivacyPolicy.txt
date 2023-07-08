@@ -1,0 +1,37 @@
+Datenschutzerklärung für die App "QuestionApp"
+
+Wir legen großen Wert auf den Schutz Ihrer persönlichen Daten. Diese Datenschutzerklärung erläutert, wie wir Informationen erfassen, verwenden, offenlegen und schützen, die Sie uns zur Verfügung stellen, wenn Sie unsere App "QuestionApp" nutzen.
+
+1. Erfasste Daten
+
+Bei der Nutzung der App "QuestionApp" erfassen wir lediglich die E-Mail-Adressen der Benutzer. Wir erfassen keine weiteren persönlichen Informationen wie Namen, Anschriften oder Telefonnummern.
+
+2. Verwendung der erfassten Daten
+
+Die von uns erfassten E-Mail-Adressen werden ausschließlich für interne Zwecke verwendet. Wir nutzen diese Informationen, um die App-Funktionalität bereitzustellen, um die Sicherheit der App zu gewährleisten und um mit Ihnen in Verbindung zu treten, falls erforderlich.
+
+3. Offenlegung der erfassten Daten
+
+Wir geben Ihre E-Mail-Adressen nicht an Dritte weiter, es sei denn, dies ist gesetzlich vorgeschrieben oder zur Erfüllung unserer vertraglichen Verpflichtungen erforderlich. In bestimmten Fällen können wir Ihre E-Mail-Adresse an vertrauenswürdige Dritte weitergeben, die uns bei der Bereitstellung der App-Funktionalität unterstützen. In solchen Fällen stellen wir sicher, dass angemessene Sicherheitsvorkehrungen getroffen werden, um den Schutz Ihrer Daten zu gewährleisten.
+
+4. Datensicherheit
+
+Wir ergreifen angemessene technische und organisatorische Maßnahmen, um Ihre Daten vor unbefugtem Zugriff, Missbrauch oder Verlust zu schützen. Wir verwenden geeignete Sicherheitsmaßnahmen, um sicherzustellen, dass Ihre E-Mail-Adressen sicher gespeichert und verarbeitet werden.
+
+5. Aufbewahrung der Daten
+
+Wir speichern Ihre E-Mail-Adressen nur so lange, wie es für die Bereitstellung der App-Funktionalität erforderlich ist. Sobald Sie die App deinstallieren oder uns auffordern, Ihre Daten zu löschen, werden Ihre E-Mail-Adressen aus unseren Datenbanken entfernt.
+
+6. Ihre Rechte
+
+Sie haben das Recht, auf Ihre persönlichen Daten zuzugreifen, sie zu berichtigen oder zu löschen. Wenn Sie Fragen zu unseren Datenschutzpraktiken oder Ihren Rechten haben oder eines dieser Rechte ausüben möchten, kontaktieren Sie uns bitte über die unten angegebene E-Mail-Adresse.
+
+7. Änderungen dieser Datenschutzerklärung
+
+Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu ändern oder zu aktualisieren. Bei wesentlichen Änderungen werden wir Sie über die in der App bereitgestellten Kommunikationskanäle informieren. Bitte überprüfen Sie regelmäßig diese Datenschutzerklärung, um auf dem neuesten Stand zu bleiben.
+
+Kontakt:
+
+Bei Fragen, Anmerkungen oder Bedenken bezüglich dieser Datenschutzerklärung oder unserer Datenschutzpraktiken können Sie uns unter [Kontakt-E-Mail-Adresse] kontaktieren.
+
+Bitte beachten Sie, dass diese Datenschutzerklärung möglicherweise aktualisiert wird, um den rechtlichen Anforderungen oder geänderten Geschäftspraktiken gerecht zu werden. Es liegt in Ihrer Verantwortung, regelmäßig über Änderungen dieser Datenschutzerklärung informiert zu bleiben.
